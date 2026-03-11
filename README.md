@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hindhusha!
 
-<!--
-**hindhusharajaram/hindhusharajaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Business Systems Student | Data Visualization Intern**
 
-Here are some ideas to get you started:
+### Tech Stack
+* **ETL:** `BS4` • `Requests` • `Pandas`
+* **Analytics:** KPI Engineering • Strategic Intel
+* **Visualization:** Power BI Dashboards
+* **Core:** Python Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Work:
+* **Unified Military Analytics and Comparison Dashboard** Engineered a full-scale ETL suite (Python/BS4) and interactive intelligence dashboard for 140+ nations.
+* **Infosys Springboard:** Data Visualization Intern (6.0) focusing on KPI engineering and automated data transformation.
+
+
+[LinkedIn](https://www.linkedin.com/in/hindhusha/) | [Military Dashboard Project](https://github.com/hindhusharajaram/Unified-Military-Analytics-and-Comparison-Dashboard)
