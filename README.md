@@ -1,4 +1,4 @@
-# Hi, I'm Hindhusha!
+# Hi, I'm Hindhusha P R!
 
 **Computer Science & Business Systems Student | Data Visualization Intern**
 
