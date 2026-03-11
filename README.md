@@ -2,7 +2,7 @@
 
 **Computer Science & Business Systems Student | Data Visualization Intern**
 
-### Tech Stack
+### Tech Stack:
 * **ETL:** `BS4` • `Requests` • `Pandas`
 * **Analytics:** KPI Engineering • Strategic Intel
 * **Visualization:** Power BI Dashboards
