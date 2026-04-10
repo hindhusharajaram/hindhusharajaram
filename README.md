@@ -28,3 +28,5 @@ Currently focusing on architecting scalable, intelligent systems. I bridge the g
   <a href="https://linkedin.com/in/hindhusha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Open_For_Collab-green?style=for-the-badge" />
 </p>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hindhusharajaram&theme=green_view)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
