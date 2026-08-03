@@ -9,7 +9,7 @@ Currently focusing on architecting scalable, intelligent systems. I bridge the g
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,git,vscode" />
+      <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,postgres,mysql,python,git,github,maven,postman,idea,vscode,powershell" />
     </td>
   </tr>
 </table>
